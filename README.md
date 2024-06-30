@@ -1,0 +1,2 @@
+# PRODIGY_WD_05
+NEXT PROJECT FOR INTERNSHIP. Creating a weather app.
